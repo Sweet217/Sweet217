@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel velazquez berrueta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel velazquez berrueta" height="30" width="40" /></a>
-<a href="https://fb.com/gabriel velazquez berrueta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel velazquez berrueta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-velazquez-berrueta-53a3b925a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel velazquez berrueta" height="30" width="40" /></a>
 <a href="https://instagram.com/_gabriel.vb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gabriel.vb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sweet217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sweet217" height="30" width="40" /></a>
 </p>
