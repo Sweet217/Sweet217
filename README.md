@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sweet217" alt="sweet217" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sweet217/Python-small-Proyects](https://github.com/Sweet217/Python-small-Proyects)
+- 👨‍💻 Some of my projects are available at [https://github.com/Sweet217/Python-small-Proyects](https://github.com/Sweet217/Python-small-Proyects)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1a1bUIiUCZjQxyf_KJpr9t23q3PpEx3Lc/view?usp=sharing](https://drive.google.com/file/d/1a1bUIiUCZjQxyf_KJpr9t23q3PpEx3Lc/view?usp=sharing)
 
