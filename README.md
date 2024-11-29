@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Velazquez Berrueta</h1>
-<h3 align="center">I'm a 19 year old Software Engineer student passionate about everything about backend, 📊Data management📊, 🤖Machine Learning🤖, 🧠AI🧠, 🧩APIs🧩, etc, Always happy to learn new technologies.</h3>
+<h3 align="center">I'm a 20 year old Software Engineer student passionate about everything about backend, 📊Data management📊, 🤖Machine Learning🤖, 🧠AI🧠, 🧩APIs🧩, etc, Always happy to learn new technologies.</h3>
 <h3 align="center">I'm currently working as Fullstack Developer with laravel, vue & python and Im also working as Prompt Engineer on the freelance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweet217&label=Profile%20views&color=0e75b6&style=flat" alt="sweet217" /> </p>
