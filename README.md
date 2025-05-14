@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel Velazquez Berrueta</h1>
-<h3 align="center">I'm a 20 year old Software Engineer student passionate about everything about backend, 📊Data management📊, 🤖Machine Learning🤖, 🧠AI🧠, 🧩APIs🧩, etc, Always happy to learn new technologies.</h3>
-<h3 align="center">I'm currently working as Fullstack Developer with laravel, vue & python and Im also working as Prompt Engineer on the freelance</h3>
+<h3 align="center">I'm a 20 year old Software Engineer student at the Universidad de Colima passionate about everything about backend, 📊Data management📊, 🤖Machine Learning🤖, 🧠AI🧠, 🧩APIs🧩, etc, Always happy to learn new technologies.</h3>
+<h3 align="center">I'm currently working as Full time LLM/Prompt Engineer at HKConsulting in the USA (remote), and some work on the side, U can always contact me with a position or a job and I will be happy to awnser</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweet217&label=Profile%20views&color=0e75b6&style=flat" alt="sweet217" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sweet217" alt="sweet217" /></a> </p>
-
-- 👨‍💻 Some of my projects are available at [https://github.com/Sweet217/Python-small-Proyects](https://github.com/Sweet217/Python-small-Proyects)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a1bUIiUCZjQxyf_KJpr9t23q3PpEx3Lc/view?usp=sharing](https://drive.google.com/file/d/1a1bUIiUCZjQxyf_KJpr9t23q3PpEx3Lc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
